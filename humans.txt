@@ -1,0 +1,23 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Anton Vorobyev -- Software Developer -- @antonvorobyev
+
+# THANKS
+
+
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, JavaScript
+
+    Operating Systems:
+        - Windows 7
+
+    Browsers:
+        - Google Chrome 45,
+        - Mozilla Firefox 42,
+        - Opera 33,
+        - Internet Explorer 11
