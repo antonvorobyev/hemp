@@ -6,6 +6,7 @@ body {
 
 header,
 .section0,
+.section1,
 footer {
     height: 766px;
     min-width: 985px;
@@ -69,15 +70,21 @@ header .title .subheading {
 .section0 {
 }
 
-.section0 h2 {
+.section1 {
+}
+
+.section0 h2,
+.section1 h2 {
     font-size: 18px;
 }
 
-.section0 p {
+.section0 p,
+.section1 p {
     font-size: 16px;
 }
 
-.section0 .act {
+.section0 .act,
+.section1 .act {
     display: inline-block;
     width: 200px;
     height: 50px;
@@ -91,10 +98,12 @@ header .title .subheading {
     text-decoration: none;
 }
 
-.section0 .act:hover {
+.section0 .act:hover,
+.section1 .act:hover {
     background: #ff5061;
 }
 
-.section0 .act:active {
+.section0 .act:active,
+.section1 .act:active {
     background: #d92b48;
 }
