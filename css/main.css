@@ -98,3 +98,15 @@ header .title .subheading {
 .section0 .act:active {
     background: #d92b48;
 }
+
+footer {
+    text-align: center;
+    padding-top: 50px;
+    height: 150px;
+}
+
+footer .copyright {
+    display: inline-block;
+    font-size: 12px;
+    color: grey;
+}
