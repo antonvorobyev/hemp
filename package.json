@@ -1,6 +1,12 @@
 {
-  "name": "Project",
-  "version": "0.0.0",
+  "name": "vendor-project",
+  "version": "0.1.0",
+  "description": "a project of vendor",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://example.com/vendor/vendor-project.git"
+  },
   "devDependencies": {
     "connect-livereload": "^0.5.4",
     "grunt": "^0.4.5",
@@ -11,6 +17,7 @@
     "grunt-contrib-uglify": "^0.11.0",
     "grunt-contrib-watch": "^0.6.1",
     "load-grunt-tasks": "^3.3.0",
-    "pug": "^2.0.0"
-  }
+    "pug": "^2.0.0-rc.1"
+  },
+  "license": "Apache-2.0"
 }
